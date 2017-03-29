@@ -10,10 +10,10 @@ Follow the instructions for your platform [here](https://github.com/npm/npm).
 npm install
 ````
 
-3. Boot the HTTP server
+3. Start the application
 
 ````
-npm run server
+npm start
 ````
 
 The server is now running at [localhost:3000](localhost:3000)
